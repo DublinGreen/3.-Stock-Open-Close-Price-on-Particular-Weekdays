@@ -1,4 +1,4 @@
-# 3.-Stock-Open-Close-Price-on-Particular-Weekdays
+# 3.-Stock-Open-Close-Price-on-Particular-Weekdays (Solution)
 Stock Open Close Price on Particular Weekdays solution with php
 
 # Problem
